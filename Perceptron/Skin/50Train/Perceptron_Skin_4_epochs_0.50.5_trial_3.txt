@@ -1,0 +1,4 @@
+epochs = 4
+w = [-17948.  -1430.   -398.    802.]
+training accuracy is = 0.7645128908258453
+testing accuracy is 0.7678816270566727

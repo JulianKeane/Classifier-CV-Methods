@@ -1,0 +1,3 @@
+The occupancy_data folder contains the original data; I did not load it from there due to the format. Instead I created two .csv files in the home directory that are approximately equal. Otherwise, the rest of the data should work smoothly with how I did things in my notebook
+
+Also, the folders ~/SVM, ~/LogReg, and ~/Perceptron contain .txt files containing the results of each of my experiments including weights, training accuracy, and test accuracy. The file format should be {CLASSIFIER}_{HYPERPARAMETER_VALUE}_{HYPERPARAMETER_NAME}_{DATASET}_{TRAIN_SIZE}_{TEST_SIZE}_trial_{TRIAL_NUMBER}.txt
